@@ -14,8 +14,7 @@
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1C3A6F64D162A1328719AB1C19C52F431B51B54EDA2FFC212041357571A15BC5&fbclid=IwAR2XcFBYX5WFWC6QEGnTJljNLppUEy93gh7NnQjA1vqlJGIXSwBggomHvIQ
 )
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E99B7F76F8B256364BE3A7F7A5F69C057FBA533E3E18E997D83F536E7AFB050E
-
- )
+)
 - [SQL and Relational Databases 101](
 https://courses.cognitiveclass.ai/certificates/eba858f12ff54d0e944c6c38c143dc56)
 
