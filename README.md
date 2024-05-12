@@ -18,6 +18,9 @@
 - [SQL and Relational Databases 101](
 https://courses.cognitiveclass.ai/certificates/eba858f12ff54d0e944c6c38c143dc56)
 
+-[NoSQL and DBaaS 101](
+https://courses.cognitiveclass.ai/certificates/c2a86a2741cd4295972bd924ee0c91d4)
+
 ## Skills
 
 - **Programming:** Java, Javascript
